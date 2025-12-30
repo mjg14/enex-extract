@@ -1,7 +1,7 @@
 #! /usr/bin/perl -w    
 
 # enex-extract.pl
-# exztracts attachments from Evernote Export file (.enex)
+# extracts attachments from Evernote Export file (.enex)
 
 # This script takes the name(s) of one or more .enex files as its arguments, 
 # and extracts all file and image attachments to separate files. If a file 
